@@ -39,19 +39,19 @@ to:
 community
 
 
-|  Bug No.  | Depends On  |  Related To  | Community | Hints for Solving | Status |
-| --------- | ----------- | ------------ | --------- | ----------------- | ------ |
-| #4181     |             |              |           |                   | Go     |
-| #4078     |             |              | Designer  | Is implementing the "focus ring" a short term solution? Sample code provided.  | Claimed (Berea)  |
-| #4076     |             |              | Chrome DevTools, Edge teams |  | Question  |
-| #4075     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Claimed (Berea)   |
-| #4080     |             |              |           | Sample code provided. Some question as to what terms mean.  | Claimed (Berea)   |
-| #4070     |             | #4071        |           | Example code provided  | Claimed (Berea)  |
-| #4071     |             | #4070        |           | Example code provided  | Requested closed  |
-| #4067     | #695 - blocker | #4081, #4068  |       | Solution might be in m-c. Jason indicated he would update #695 soon.  | Requested closed  |
-| #4073     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Closed       |
-| #4068     |             | #4081        |           | Same solution as for #4067. Requires updating to latest devtools-core tree component. See comment on #4067 | Closed       |
-| #4081     |             | #4067, #4068 |           | One comment suggested closing the bug.  | Closed    |
+|  Bug No.  | Status      | Depends On  |  Related To  | Community | Hints for Solving |
+| --------- | ----------- | ----------- | ------------ | --------- | ----------------- |
+| #4181     | Go          |             |              |           |                   |
+| #4078     | Claimed (Berea) |         |              | Designer  | Is implementing the "focus ring" a short term solution? Sample code provided.  |
+| #4076     | Question    |             |              | Chrome DevTools, Edge teams | |
+| #4075     | Claimed (Berea) |         |              |           | Explanation of solution provided by Garbee. Sample code provided.  |
+| #4080     | Claimed (Berea) |         |              |           | Sample code provided. Some question as to what terms mean.  |
+| #4070     | Claimed (Berea) |         | #4071        |           | Example code provided  |
+| #4071     | Requested closed |        | #4070        |           | Example code provided  |
+| #4067     | Requested closed | #695 - blocker | #4081, #4068 |   | Solution might be in m-c. Jason indicated he would update #695 soon.  |
+| #4073     | Closed      |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  |
+| #4068     | Closed      |             | #4081        |           | Same solution as for #4067. Requires updating to latest devtools-core tree component. See comment on #4067 |
+| #4081     | Closed      |             | #4067, #4068 |           | One comment suggested closing the bug.  |
 
 [jlast](https://devtools-html.slack.com/team/U3UH6CSLR#_blank)
 
