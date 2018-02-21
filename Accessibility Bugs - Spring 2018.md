@@ -5,7 +5,7 @@ This document was used in the fall 2017 version of CS 490 Software Engineering a
 
 The Mozilla Dev Tools communityhas provided us with a list of possible bugs to work on:
 
-https://github.com/devtools-html/debugger.html/issues?q=is%3Aissue+is%3Aopen+label%3Aaccessibility
+https://github.com//issues?q=is%3Aissue+is%3Aopen+label%3Aaccessibility
 
 You must explore the list of bugs and fill out the table below according
 to:
@@ -29,26 +29,29 @@ to:
     
       - **Go** - The solution can be created with no further input
         needed from the community
+
+      - **Claimed** - Issue has been claimed and is in progress.
     
       - **Question** - There are unresolved questions within the bug
         report that require answers from the
         
-      - **Resolved** - The issue was either closed or the solution is no longer needed.
+      - **Closed** - The issue was either closed or the solution is no longer needed.
 community
 
-|              |                                            |                |                             |                                                                                                          |            |
-| ------------ | ------------------------------------------ | -------------- | --------------------------- | -------------------------------------------------------------------------------------------------------- | ---------- |
-| **Bug No.** | **Dependent On**                           | **Related To** | **Community**               | **Hints for Solving**                                                                                    | **Status** |
-| devtools-html/debugger.html#4067         | devtools-html/devtools-core#695 - blocker | devtools-html/debugger.html#4081, devtools-html/debugger.html#4068     |                             | Solution might be in m-c. Jason indicated he would update #695 soon.                                    | Resolved       |
-| devtools-html/debugger.html#4068         |                                            | devtools-html/debugger.html#4081           |                             | Same solution as for #4067. Requires updating to latest devtools-core tree component. See comment on devtools-html/debugger.html#4067 | Resolved       |
-| devtools-html/debugger.html#4070         |                                            | devtools-html/debugger.html#4071           |                             | Example code provided                                                                                    | Berea students claimed.        |
-| devtools-html/debugger.html#4071         |                                            | devtools-html/debugger.html#4070           |                             | Example code provided                                                                                    | Berea students claimed. Likley merged with devtools-html/debugger.html#5285. (Don't work on)        |
-| devtools-html/debugger.html#4073         |                                            |                |                             | Explanation of solution provided by Garbee. Sample code provided.                                        | Go         |
-| devtools-html/debugger.html#4075         |                                            |                |                             | Explanation of solution provided by Garbee. Sample code provided.                                        | Go , Berea students have made some progress on this. Still "Go".  |
-| devtools-html/debugger.html#4076         |                                            |                | Chrome DevTools, Edge teams |                                                                                                          | Wait       |
-| devtools-html/debugger.html#4078         |                                            |                | Designer                    | Is implementing the "focus ring" a short term solution? Sample code provided.                            | Resolved  |
-| devtools-html/debugger.html#4080         |                                            |                |                             | Sample code provided. Some question as to what terms mean.                                               | Go   |
-| devtools-html/debugger.html#4081         |                                            | devtools-html/debugger.html#4067, devtools-html/debugger.html#4068     |                             | One comment suggested closing the bug.                                                                   | Resolved       |
+
+|  Bug No.  | Depends On  |  Related To  | Community | Hints for Solving | Status |
+| --------- | ----------- | ------------ | --------- | ----------------- | ------ |
+| #4067     | #695 - blocker | #4081, #4068  |       | Solution might be in m-c. Jason indicated he would update #695 soon.  | Requested closed  |
+| #4068     |             | #4081        |           | Same solution as for #4067. Requires updating to latest devtools-core tree component. See comment on #4067 | Closed       |
+| #4070     |             | #4071        |           | Example code provided  | Claimed (Berea)  |
+| #4071     |             | #4070        |           | Example code provided  | Requested closed  |
+| #4073     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Go         |
+| #4075     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Go   |
+| #4076     |             |              | Chrome DevTools, Edge teams |  | Question  |
+| #4078     |             |              | Designer  | Is implementing the "focus ring" a short term solution? Sample code provided.  | Closed  |
+| #4080     |             |              |           | Sample code provided. Some question as to what terms mean.  | Go   |
+| #4081     |             | #4067, #4068 |           | One comment suggested closing the bug.  | Closed    |
+| #4181     |             |              |           |                   | Go     |
 
 [jlast](https://devtools-html.slack.com/team/U3UH6CSLR#_blank)
 
@@ -60,12 +63,12 @@ feedback
 
 [7:39](https://devtools-html.slack.com/archives/C3VTFTCBY/p1505777959000106#_blank)
 
-[https://github.com/devtools-html/debugger.html/issues/4080](https://github.com/devtools-html/debugger.html/issues/4080#_blank)
+[https://github.com//issues/4080](https://github.com//issues/4080#_blank)
 
 ![](media/image1.png) GitHub
 
 [accordion accessibility · Issue \#4080 ·
-devtools-html/debugger.html](https://github.com/devtools-html/debugger.html/issues/4080#_blank)
+](https://github.com//issues/4080#_blank)
 
 This issue tracks the work to make the accordion accessible. A PR can do
 one or several items in the checklist: Visually (CSS focus styling)
