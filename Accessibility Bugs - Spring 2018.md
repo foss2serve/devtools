@@ -43,9 +43,9 @@ community
 | --------- | ----------- | ------------ | --------- | ----------------- | ------ |
 | #4181     |             |              |           |                   | Go     |
 | #4078     |             |              | Designer  | Is implementing the "focus ring" a short term solution? Sample code provided.  | Go  |
+| #4076     |             |              | Chrome DevTools, Edge teams |  | Question  |
 | #4075     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Claimed (Berea)   |
 | #4080     |             |              |           | Sample code provided. Some question as to what terms mean.  | Claimed (Berea)   |
-| #4076     |             |              | Chrome DevTools, Edge teams |  | Question  |
 | #4070     |             | #4071        |           | Example code provided  | Claimed (Berea)  |
 | #4071     |             | #4070        |           | Example code provided  | Requested closed  |
 | #4067     | #695 - blocker | #4081, #4068  |       | Solution might be in m-c. Jason indicated he would update #695 soon.  | Requested closed  |
