@@ -41,9 +41,9 @@ community
 
 |  Bug No.  | Depends On  |  Related To  | Community | Hints for Solving | Status |
 | --------- | ----------- | ------------ | --------- | ----------------- | ------ |
-| #4073     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Go         |
-| #4075     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Go   |
-| #4080     |             |              |           | Sample code provided. Some question as to what terms mean.  | Go   |
+| #4073     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Claimed (Berea)         |
+| #4075     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Claimed (Berea)   |
+| #4080     |             |              |           | Sample code provided. Some question as to what terms mean.  | Claimed (Berea)   |
 | #4181     |             |              |           |                   | Go     |
 | #4076     |             |              | Chrome DevTools, Edge teams |  | Question  |
 | #4070     |             | #4071        |           | Example code provided  | Claimed (Berea)  |
