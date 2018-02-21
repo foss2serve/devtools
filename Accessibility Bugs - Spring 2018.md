@@ -36,7 +36,7 @@ community
 
 |              |                                            |                |                             |                                                                                                          |            |
 | ------------ | ------------------------------------------ | -------------- | --------------------------- | -------------------------------------------------------------------------------------------------------- | ---------- |
-| **Bug No. ** | **Dependent On**                           | **Related To** | **Community**               | **Hints for Solving**                                                                                    | **Status** |
+| **Bug No.** | **Dependent On**                           | **Related To** | **Community**               | **Hints for Solving**                                                                                    | **Status** |
 | 4067         | devtools-html/devtools-core\#695 - blocker | 4081, 4068     |                             | Solution might be in m-c. Jason indicated he would update \#695 soon.                                    | Wait       |
 | 4068         |                                            | 4081           |                             | Same solution as for 4067. Requires updating to latest devtools-core tree component. See comment on 4067 | Wait       |
 | 4070         |                                            | 4071           |                             | Example code provided                                                                                    | Go         |
