@@ -41,17 +41,17 @@ community
 
 |  Bug No.  | Depends On  |  Related To  | Community | Hints for Solving | Status |
 | --------- | ----------- | ------------ | --------- | ----------------- | ------ |
-| #4067     | #695 - blocker | #4081, #4068  |       | Solution might be in m-c. Jason indicated he would update #695 soon.  | Requested closed  |
-| #4068     |             | #4081        |           | Same solution as for #4067. Requires updating to latest devtools-core tree component. See comment on #4067 | Closed       |
-| #4070     |             | #4071        |           | Example code provided  | Claimed (Berea)  |
-| #4071     |             | #4070        |           | Example code provided  | Requested closed  |
 | #4073     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Go         |
 | #4075     |             |              |           | Explanation of solution provided by Garbee. Sample code provided.  | Go   |
-| #4076     |             |              | Chrome DevTools, Edge teams |  | Question  |
-| #4078     |             |              | Designer  | Is implementing the "focus ring" a short term solution? Sample code provided.  | Closed  |
 | #4080     |             |              |           | Sample code provided. Some question as to what terms mean.  | Go   |
-| #4081     |             | #4067, #4068 |           | One comment suggested closing the bug.  | Closed    |
 | #4181     |             |              |           |                   | Go     |
+| #4070     |             | #4071        |           | Example code provided  | Claimed (Berea)  |
+| #4076     |             |              | Chrome DevTools, Edge teams |  | Question  |
+| #4071     |             | #4070        |           | Example code provided  | Requested closed  |
+| #4067     | #695 - blocker | #4081, #4068  |       | Solution might be in m-c. Jason indicated he would update #695 soon.  | Requested closed  |
+| #4068     |             | #4081        |           | Same solution as for #4067. Requires updating to latest devtools-core tree component. See comment on #4067 | Closed       |
+| #4078     |             |              | Designer  | Is implementing the "focus ring" a short term solution? Sample code provided.  | Closed  |
+| #4081     |             | #4067, #4068 |           | One comment suggested closing the bug.  | Closed    |
 
 [jlast](https://devtools-html.slack.com/team/U3UH6CSLR#_blank)
 
