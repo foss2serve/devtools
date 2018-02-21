@@ -1,7 +1,7 @@
-**CS 490 - Homework
+**CS 490 - Homework**
 This document was used in the fall 2017 version of CS 490 Software Engineering at Western New England University. The table may be updated as bugs are fixed or closed. 
 
-**Bug Tracking - 20 Points **
+**Bug Tracking - 20 Points**
 
 The Mozilla Dev Tools communityhas provided us with a list of possible bugs to work on:
 
