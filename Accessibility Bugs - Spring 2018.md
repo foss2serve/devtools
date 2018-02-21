@@ -47,8 +47,8 @@ community
 | devtools-html/debugger.html#4075         |                                            |                |                             | Explanation of solution provided by Garbee. Sample code provided.                                        | Go , Berea students have made some progress on this. Still "Go".  |
 | devtools-html/debugger.html#4076         |                                            |                | Chrome DevTools, Edge teams |                                                                                                          | Wait       |
 | devtools-html/debugger.html#4078         |                                            |                | Designer                    | Is implementing the "focus ring" a short term solution? Sample code provided.                            | Resolved  |
-| devtools-html/debugger.html#4080         |                                            |                |                             | Sample code provided. Some question as to what terms mean.                                               | Question   |
-| devtools-html/debugger.html#4081         |                                            | devtools-html/debugger.html#4067, devtools-html/debugger.html#4068     |                             | One comment suggested closing the bug.                                                                   | Wait       |
+| devtools-html/debugger.html#4080         |                                            |                |                             | Sample code provided. Some question as to what terms mean.                                               | Go   |
+| devtools-html/debugger.html#4081         |                                            | devtools-html/debugger.html#4067, devtools-html/debugger.html#4068     |                             | One comment suggested closing the bug.                                                                   | Resolved       |
 
 [jlast](https://devtools-html.slack.com/team/U3UH6CSLR#_blank)
 
